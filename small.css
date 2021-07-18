@@ -1,0 +1,30 @@
+.container{
+  width: 600px;
+}
+
+.container h1{
+  font-size: 20px;
+  text-align: center;
+}
+
+.form-control{
+text-align: left;
+float: left;
+}
+
+.add{
+margin-top: 100px;
+text-align: center;
+float: left;
+margin-left: 30%;
+
+
+}
+
+
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
